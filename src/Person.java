@@ -12,6 +12,7 @@ public class Person {
 public String getName(){return name;}
     public String getSurname() {return surname;}
     public int getNumberOfTickets() {return numberOfTickets;}
+
     public void changeNumberOfTickets() {numberOfTickets--;}
 
 }
